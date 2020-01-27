@@ -3,9 +3,9 @@ title: "愛奇藝台灣目前付費會員數推估報告"
 author: "劉亮瑜"
 date: "2020/1/19"
 output:
-  html_document: default
-  word_document: default
   pdf_document: default
+  word_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
